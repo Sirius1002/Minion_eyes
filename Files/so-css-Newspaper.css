@@ -1,0 +1,3 @@
+.ays-field.checked_answer_div input:checked+label{
+	background-color: transparent;
+}
